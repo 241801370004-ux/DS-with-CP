@@ -100,13 +100,7 @@ class Main {
             System.out.println(i+" index val is "+n[i]);
         }
         
-        
-        
-        
-        
-        
-        
-        
+
         
     }
 }
